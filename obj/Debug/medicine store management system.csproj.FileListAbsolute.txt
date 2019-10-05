@@ -1,0 +1,21 @@
+D:\visual studio code\medicine store management system\medicine store management system\bin\medicine store management system.dll.config
+D:\visual studio code\medicine store management system\medicine store management system\bin\medicine store management system.dll
+D:\visual studio code\medicine store management system\medicine store management system\bin\medicine store management system.pdb
+D:\visual studio code\medicine store management system\medicine store management system\obj\Debug\medicine store management system.csprojAssemblyReference.cache
+D:\visual studio code\medicine store management system\medicine store management system\obj\Debug\medicine store management system.csproj.CoreCompileInputs.cache
+D:\visual studio code\medicine store management system\medicine store management system\obj\Debug\medicine store management system.dll
+D:\visual studio code\medicine store management system\medicine store management system\obj\Debug\medicine store management system.pdb
+D:\EXTRA\AUST CSE\CSE 3.2\SD\medicine store management system\medicine store management system\obj\Debug\medicine store management system.csprojResolveAssemblyReference.cache
+D:\EXTRA\AUST CSE\CSE 3.2\SD\medicine store management system\medicine store management system\obj\Debug\medicine store management system.csproj.CoreCompileInputs.cache
+D:\EXTRA\AUST CSE\CSE 3.2\SD\medicine store management system\medicine store management system\obj\Debug\medicine store management system.dll
+D:\EXTRA\AUST CSE\CSE 3.2\SD\medicine store management system\medicine store management system\obj\Debug\medicine store management system.pdb
+D:\EXTRA\AUST CSE\CSE 3.2\SD\medicine store management system\medicine store management system\bin\medicine store management system.dll.config
+D:\EXTRA\AUST CSE\CSE 3.2\SD\medicine store management system\medicine store management system\bin\medicine store management system.dll
+D:\EXTRA\AUST CSE\CSE 3.2\SD\medicine store management system\medicine store management system\bin\medicine store management system.pdb
+D:\visual studio code\MSMS v2.0\medicine store management system\medicine store management system\bin\medicine store management system.dll.config
+D:\visual studio code\MSMS v2.0\medicine store management system\medicine store management system\bin\medicine store management system.dll
+D:\visual studio code\MSMS v2.0\medicine store management system\medicine store management system\bin\medicine store management system.pdb
+D:\visual studio code\MSMS v2.0\medicine store management system\medicine store management system\obj\Debug\medicine store management system.csprojAssemblyReference.cache
+D:\visual studio code\MSMS v2.0\medicine store management system\medicine store management system\obj\Debug\medicine store management system.csproj.CoreCompileInputs.cache
+D:\visual studio code\MSMS v2.0\medicine store management system\medicine store management system\obj\Debug\medicine store management system.dll
+D:\visual studio code\MSMS v2.0\medicine store management system\medicine store management system\obj\Debug\medicine store management system.pdb

@@ -1,0 +1,21 @@
+﻿body {
+    
+}
+.sbody {
+    margin: 20px;
+}
+.marginforlogin{
+    margin-top: 200px; 
+}
+
+.fcontainer {
+    padding: 30px 40px;
+    -webkit-box-shadow: 4px 4px 18px -1px rgba(170,203,250,1);
+    -moz-box-shadow: 4px 4px 18px -1px rgba(170,203,250,1);
+    box-shadow: 4px 4px 18px -1px rgba(170,203,250,1);
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: #e7e7e7;
+    height: 50px;
+}
